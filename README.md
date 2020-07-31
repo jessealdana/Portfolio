@@ -23,7 +23,7 @@ link to github repo: https://github.com/jessealdana/Portfolio
 
 This app is run from Github Pages:  
 
-
+https://jessealdana.github.io/Portfolio/
 
  ## Usage
  
