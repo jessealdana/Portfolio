@@ -10,7 +10,7 @@ This portfolio documents my work as a student in the Coding Bootcamp.
 
 As a user I want to be able to get a sense of the subject's creative style and level of competence in developing a react portfolio by navigating through a series of pages and linked websites.
 
-link to github repo: 
+link to github repo: https://github.com/jessealdana/Portfolio
  
  ## Table of Contents
   * [Installation](#Installation)
