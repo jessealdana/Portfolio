@@ -5,7 +5,7 @@ function Contact(props) {
   return (
     <div className="container"> 
 
-      <h2>Contact</h2>
+      <h2 style={{paddingTop: "10px"}}>Contact</h2>
       
       <hr />
       

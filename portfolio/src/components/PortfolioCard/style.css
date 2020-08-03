@@ -1,3 +1,7 @@
+#caption {
+  background-color: whitesmoke;
+}
+
 @media screen and (max-width: 768px) {
     .PortfolioCard {
       width: 100%;
