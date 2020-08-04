@@ -32,7 +32,7 @@ function Portfolio() {
 
         <div className="row">
           <div className="col-sm-6 PortfolioCard">
-            <a href="https://imaginarytraveler4.herokuapp.com/" target="_blank">
+            <a href="https://imaginarytraveler4.herokuapp.com/" target="_blank" rel="noopener noreferrer">
             <img src={book} className="img-fluid" alt="Imaginary Traveler" />
             </a>
             <div id="caption" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "300px"}}>
@@ -40,7 +40,7 @@ function Portfolio() {
             </div>
           </div>  
           <div className="col-sm-6 PortfolioCard">
-            <a href="https://jessealdana.github.io/passwordGenerator/" target="_blank">              
+            <a href="https://jessealdana.github.io/passwordGenerator/" target="_blank" rel="noopener noreferrer">              
             <img src={password} className="img-fluid" alt="Password Generator"/>
             </a>  
             <div id="caption" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "300px"}}>
@@ -51,7 +51,7 @@ function Portfolio() {
 
         <div className="row">
           <div className="col-sm-6 PortfolioCard">
-            <a href="https://tranquil-castle-93328.herokuapp.com" target="_blank">
+            <a href="https://tranquil-castle-93328.herokuapp.com" target="_blank" rel="noopener noreferrer">
             <img src={boardgame} className="img-fluid" alt="Boardgame"/>
             </a>
             <div id="caption" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "300px"}}>
@@ -59,7 +59,7 @@ function Portfolio() {
             </div>
           </div>
           <div className="col-sm-6 PortfolioCard">
-            <a href="https://shrouded-forest-02182.herokuapp.com/" target="_blank">           
+            <a href="https://shrouded-forest-02182.herokuapp.com/" target="_blank" rel="noopener noreferrer">           
               <img src={burger} className="img-fluid" alt="Burger Compendium"/>
             </a>
             <div id="caption" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "300px"}}>
@@ -70,7 +70,7 @@ function Portfolio() {
 
         <div className="row">
         <div className="col-sm-6 PortfolioCard">
-            <a href="https://sharlenemay.github.io/dinner_movie/" target="_blank">
+            <a href="https://sharlenemay.github.io/dinner_movie/" target="_blank" rel="noopener noreferrer">
             <img src={dinner} className="img-fluid" alt="Dinner and a Movie"/>
             </a>
             <div id="caption" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "300px"}}>
@@ -78,7 +78,7 @@ function Portfolio() {
             </div>
           </div>  
           <div className="col-sm-6 PortfolioCard">
-            <a href="https://fierce-falls-45988.herokuapp.com/" target="_blank">           
+            <a href="https://fierce-falls-45988.herokuapp.com/" target="_blank" rel="noopener noreferrer">           
               <img src={budget} className="img-fluid" alt="Budget Tracker"/>
             </a>
             <div id="caption" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "300px"}}>

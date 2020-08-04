@@ -24,7 +24,7 @@ function Contact(props) {
           <label for="exampleFormControlTextarea1"><p>Message</p></label>
           <textarea className="form-control" id="exampleFormControlTextarea1" rows="5"></textarea>
         </div>
-        <button type="button" className="button button-a button-big button-rounded" id="msg-button" onclick="window.location.href = 'mailto:jesse.aldana@gmail.com';">
+        <button type="button" className="button button-a button-big button-rounded" id="msg-button" onClick="window.location.href = 'mailto:jesse.aldana@gmail.com';">
           Submit
         </button>
       </form>
@@ -32,9 +32,9 @@ function Contact(props) {
     <br />
 
     <div className="socials">
-      <a href="https://www.linkedin.com/in/jesse-aldana-6b7a391a5 " target="_blank" class="btn btn-primary btn-lg" role="button">linkedin</a>
-      <a href="https://github.com/jessealdana " target="_blank" class="btn btn-primary btn-lg" role="button">github</a>
-      <a href="https://www.ugallery.com/artist/jesse-aldana " target="_blank" class="btn btn-primary btn-lg" role="button">UGallery</a>
+      <a href="https://www.linkedin.com/in/jesse-aldana-6b7a391a5 " target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-lg" role="button">linkedin</a>
+      <a href="https://github.com/jessealdana " target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-lg" role="button">github</a>
+      <a href="https://www.ugallery.com/artist/jesse-aldana " target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-lg" role="button">UGallery</a>
       <br />
       <br />
       <p>email: jesse.aldana@gmail.com</p>

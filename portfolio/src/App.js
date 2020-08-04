@@ -7,7 +7,7 @@ import Portfolio from "./components/pages/Portfolio";
 import Contact from "./components/pages/Contact";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 
 function App() {
