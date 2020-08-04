@@ -1,6 +1,6 @@
 import React from "react";
 import dinner from "./Images/dinnerAndAmovie.jpg";
-import password from "./Images/passwordGenerator.jpg";
+import quiz from "./Images/quiz.png";
 import boardgame from "./Images/boardgame.png";
 import burger from "./Images/burgerCompendium.png";
 import book from "./Images/imaginaryTraveler.png"
@@ -40,11 +40,11 @@ function Portfolio() {
             </div>
           </div>  
           <div className="col-sm-6 PortfolioCard">
-            <a href="https://jessealdana.github.io/passwordGenerator/" target="_blank" rel="noopener noreferrer">              
-            <img src={password} className="img-fluid" alt="Password Generator"/>
+            <a href="https://jessealdana.github.io/Coding-Quiz/" target="_blank" rel="noopener noreferrer">              
+            <img src={quiz} className="img-fluid" alt="Coding Quiz"/>
             </a>  
             <div id="caption" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "300px"}}>
-              Password Generator
+              Coding Quiz
             </div>
           </div>
         </div>
