@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.64e3fd7e.chunk.css",
-    "main.js": "/Portfolio/static/js/main.05abb10b.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.05abb10b.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.cfcf370d.chunk.css",
+    "main.js": "/Portfolio/static/js/main.e1874142.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.e1874142.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.e440ee5a.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.e440ee5a.js.map",
     "static/js/2.808de669.chunk.js": "/Portfolio/static/js/2.808de669.chunk.js",
     "static/js/2.808de669.chunk.js.map": "/Portfolio/static/js/2.808de669.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.51d398d8c6e5b9479d1d7b219340d077.js": "/Portfolio/precache-manifest.51d398d8c6e5b9479d1d7b219340d077.js",
+    "precache-manifest.b52fa9ece1a2899e276b2cea8ca2a788.js": "/Portfolio/precache-manifest.b52fa9ece1a2899e276b2cea8ca2a788.js",
     "service-worker.js": "/Portfolio/service-worker.js",
-    "static/css/main.64e3fd7e.chunk.css.map": "/Portfolio/static/css/main.64e3fd7e.chunk.css.map",
+    "static/css/main.cfcf370d.chunk.css.map": "/Portfolio/static/css/main.cfcf370d.chunk.css.map",
     "static/js/2.808de669.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.808de669.chunk.js.LICENSE.txt",
     "static/media/aboutBackground.jpg": "/Portfolio/static/media/aboutBackground.3bf0ec99.jpg",
     "static/media/boardgame.png": "/Portfolio/static/media/boardgame.93e0a4a9.png",
     "static/media/budget.png": "/Portfolio/static/media/budget.3169f265.png",
     "static/media/burgerCompendium.png": "/Portfolio/static/media/burgerCompendium.71cb40d0.png",
     "static/media/dinnerAndAmovie.jpg": "/Portfolio/static/media/dinnerAndAmovie.1bb62160.jpg",
-    "static/media/fitness.png": "/Portfolio/static/media/fitness.e38e173d.png",
-    "static/media/logo.svg": "/Portfolio/static/media/logo.5d5d9eef.svg",
-    "static/media/passwordGenerator.jpg": "/Portfolio/static/media/passwordGenerator.aed515b2.jpg",
+    "static/media/imaginaryTraveler.png": "/Portfolio/static/media/imaginaryTraveler.8771b004.png",
+    "static/media/style.css": "/Portfolio/static/media/paper.d8fc1317.png",
+    "static/media/quiz.png": "/Portfolio/static/media/quiz.71c63bc7.png",
     "static/media/selfie.jpg": "/Portfolio/static/media/selfie.989f6c97.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e440ee5a.js",
     "static/js/2.808de669.chunk.js",
-    "static/css/main.64e3fd7e.chunk.css",
-    "static/js/main.05abb10b.chunk.js"
+    "static/css/main.cfcf370d.chunk.css",
+    "static/js/main.e1874142.chunk.js"
   ]
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ac2027f2d0b5abf0e7e0a695e4edce9",
+    "revision": "10836b66bae1c540359e96b22372b709",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "5b19570a4b0d00eeaaaf",
-    "url": "/Portfolio/static/css/main.64e3fd7e.chunk.css"
+    "revision": "f6df379de5a112df05e3",
+    "url": "/Portfolio/static/css/main.cfcf370d.chunk.css"
   },
   {
     "revision": "6dcc17804074385c9efa",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/js/2.808de669.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5b19570a4b0d00eeaaaf",
-    "url": "/Portfolio/static/js/main.05abb10b.chunk.js"
+    "revision": "f6df379de5a112df05e3",
+    "url": "/Portfolio/static/js/main.e1874142.chunk.js"
   },
   {
     "revision": "b83a37198ba343383876",
@@ -44,16 +44,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/media/dinnerAndAmovie.1bb62160.jpg"
   },
   {
-    "revision": "e38e173d623eabdcb3ebebf6f627db5a",
-    "url": "/Portfolio/static/media/fitness.e38e173d.png"
+    "revision": "8771b0041804614c4615b192536bfcf6",
+    "url": "/Portfolio/static/media/imaginaryTraveler.8771b004.png"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/Portfolio/static/media/logo.5d5d9eef.svg"
+    "revision": "d8fc13178b9a09fc45e0dd1ee8e15524",
+    "url": "/Portfolio/static/media/paper.d8fc1317.png"
   },
   {
-    "revision": "aed515b2c03df0d2343a86e487dd521c",
-    "url": "/Portfolio/static/media/passwordGenerator.aed515b2.jpg"
+    "revision": "71c63bc704abc2c40a41bb2ba65a2584",
+    "url": "/Portfolio/static/media/quiz.71c63bc7.png"
   },
   {
     "revision": "989f6c97854ea9b51927f304b80efd0c",
