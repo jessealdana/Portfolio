@@ -25,7 +25,7 @@ function About() {
             <img src={selfieImage} className="img-fluid" alt="Jesse Aldana"/>
           </div>
           <div className="col-sm-6" style={{backgroundColor: "whitesmoke"}}>
-            <p style={{paddingTop: "10px"}}>I am an artist.  I have a BA from Brown University in the Visual Arts and an MFA in painting from the New York Academy of Art.  After many years as a studio artist, watching the creative world become ever more digital, I am learning new skills through coding as I immerse myself in a new form of creativity.</p>
+            <p style={{paddingTop: "10px"}}>I am an artist with a BA from Brown University in the Visual Arts and an MFA in painting from the New York Academy of Art. From my career as an oil painter with an established sales record of original and commissioned work I bring a strong sense of  composition and color to my work as a full stack developer.  My personal practice instills self-reliance and proactivity into my work ethic while I maintain and enjoy a healthy respect for the work of my teammates and colleagues.  Web development represents an exciting career opportunity that meshes with my creative, forward-thinking mind.</p>
           </div>
         </div>
 

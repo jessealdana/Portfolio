@@ -33,7 +33,7 @@ function Portfolio() {
         <div className="row">
           <div className="col-sm-6 PortfolioCard">
             <a href="https://imaginarytraveler4.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-            <img src={book} className="img-fluid" alt="Imaginary Traveler" />
+            <img src={book} className="img-fluid" alt="Imaginary Traveler" style={{borderStyle: "solid", borderColor: "darkslategray", borderWidth: "4px"}}/>
             </a>
             <div id="caption" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "300px"}}>
               Virtual Walkabout
@@ -41,7 +41,7 @@ function Portfolio() {
           </div>  
           <div className="col-sm-6 PortfolioCard">
             <a href="https://jessealdana.github.io/Coding-Quiz/" target="_blank" rel="noopener noreferrer">              
-            <img src={quiz} className="img-fluid" alt="Coding Quiz"/>
+            <img src={quiz} className="img-fluid" alt="Coding Quiz" style={{borderStyle: "solid", borderColor: "darkslategray", borderWidth: "4px"}}/>
             </a>  
             <div id="caption" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "300px"}}>
               Coding Quiz
@@ -52,7 +52,7 @@ function Portfolio() {
         <div className="row">
           <div className="col-sm-6 PortfolioCard">
             <a href="https://tranquil-castle-93328.herokuapp.com" target="_blank" rel="noopener noreferrer">
-            <img src={boardgame} className="img-fluid" alt="Boardgame"/>
+            <img src={boardgame} className="img-fluid" alt="Boardgame" style={{borderStyle: "solid", borderColor: "darkslategray", borderWidth: "4px"}}/>
             </a>
             <div id="caption" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "300px"}}>
               Boardgame
@@ -60,7 +60,7 @@ function Portfolio() {
           </div>
           <div className="col-sm-6 PortfolioCard">
             <a href="https://shrouded-forest-02182.herokuapp.com/" target="_blank" rel="noopener noreferrer">           
-              <img src={burger} className="img-fluid" alt="Burger Compendium"/>
+              <img src={burger} className="img-fluid" alt="Burger Compendium" style={{borderStyle: "solid", borderColor: "darkslategray", borderWidth: "4px"}}/>
             </a>
             <div id="caption" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "300px"}}>
               Burger App
@@ -71,7 +71,7 @@ function Portfolio() {
         <div className="row">
         <div className="col-sm-6 PortfolioCard">
             <a href="https://sharlenemay.github.io/dinner_movie/" target="_blank" rel="noopener noreferrer">
-            <img src={dinner} className="img-fluid" alt="Dinner and a Movie"/>
+            <img src={dinner} className="img-fluid" alt="Dinner and a Movie" style={{borderStyle: "solid", borderColor: "darkslategray", borderWidth: "4px"}}/>
             </a>
             <div id="caption" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "300px"}}>
               Movie and Foodie App
@@ -79,7 +79,7 @@ function Portfolio() {
           </div>  
           <div className="col-sm-6 PortfolioCard">
             <a href="https://fierce-falls-45988.herokuapp.com/" target="_blank" rel="noopener noreferrer">           
-              <img src={budget} className="img-fluid" alt="Budget Tracker"/>
+              <img src={budget} className="img-fluid" alt="Budget Tracker" style={{borderStyle: "solid", borderColor: "darkslategray", borderWidth: "4px"}}/>
             </a>
             <div id="caption" style={{backgroundColor: "rgb(148, 151, 151)", color: "white", width: "300px"}}>
               Budget Tracker
